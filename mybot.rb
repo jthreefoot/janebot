@@ -15,4 +15,8 @@ bot.command(:cheer) do |event|
 	event.channel.send_file File.open('images/cheerleader_crab.gif', 'r')
 end
 
+bot.command(:nope) do |event|
+	event.channel.send_file File.open('images/nopetopus.gif', 'r')
+end
+
 bot.run
