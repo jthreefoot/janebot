@@ -1,0 +1,12 @@
+i will forget things if i don't make a list
+
+- self-serve role assignment
+- reminder tool (like "!remind me tomorrow to call my insurance")
+- maybe look into mods having a function to block specific people using the reminder tool in case it gets abused (i'm not worried about this with this crew but. you never know. also it seems a potentially interesting engineering problem to learn more of what the discord api can do.)
+- pizza fire gif reaction
+- do reaction gif thing better bc blocking IO (probably just do the link thing instead of trying to shuttle files around)
+- replicate friend's scryfall API stuff
+- maybe replicate the giphy bot thing my coworker was telling me about
+
+more to be added almost certainly
+
